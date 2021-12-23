@@ -18,6 +18,7 @@ class ViewController: UIViewController {
         
         //Appstore reliese
         
+        //Fix bugs
         //code 3
         
         //code 4
